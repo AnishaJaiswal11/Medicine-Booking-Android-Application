@@ -1,7 +1,7 @@
 package com.example.anisha.med4u;
 
 /**
- * Created by souravroy on 18-07-2017.
+ * Created by anisha on 18-07-2017.
  */
 
 public class Info {
