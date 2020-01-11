@@ -1,4 +1,4 @@
-package com.example.souravroy.med4u;
+package com.example.anisha.med4u;
 
 import android.app.Activity;
 import android.app.AlertDialog;
@@ -19,7 +19,7 @@ import java.text.DecimalFormat;
 import java.util.*;
 
 /**
- * Created by souravroy on 18-07-2017.
+ * Created by anisha on 18-07-2017.
  */
 
 public class Medicine extends Activity implements AdapterView.OnItemSelectedListener {
