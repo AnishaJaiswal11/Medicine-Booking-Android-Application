@@ -1,4 +1,4 @@
-package com.example.souravroy.med4u;
+package com.example.anisha.med4u;
 
 import android.app.Activity;
 import android.app.AlertDialog;
@@ -16,7 +16,7 @@ import org.w3c.dom.Text;
 import java.text.DecimalFormat;
 
 /**
- * Created by souravroy on 18-07-2017.
+ * Created by anisha on 18-07-2017.
  */
 
 public class AllSearch extends Activity
